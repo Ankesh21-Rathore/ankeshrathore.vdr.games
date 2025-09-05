@@ -321,13 +321,10 @@
                     <a href="https://www.instagram.com/its.rathore.saab?igsh=d2NyYzRnbDMxeHF0" class="text-gray-400 hover:text-purple-400 transition duration-300">
                         <i class="fab fa-instagram text-2xl social-icon"></i>
                     </a
-                </div>
-            </div>
+                
             <div class="mt-6 pt-6 border-t border-gray-700 text-center text-gray-400 text-sm">
                 <p>© 2025 Ankesh Rathore. Second_Year.</p>
             </div>
-        </div>
-    </footer>
 
     <script>
         // Mobile menu toggle
@@ -379,6 +376,4 @@
             });
         });
     </script>
-</body>
-</html>
 
