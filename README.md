@@ -297,21 +297,6 @@
                 </div>
                 <div>
                     <form class="space-y-6">
-                        <div>
-                            <label for="name" class="block mb-2 font-medium">Your Name</label>
-                            <input type="text" id="name" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 transition duration-300">
-                        </div>
-                        <div>
-                            <label for="email" class="block mb-2 font-medium">Your Email</label>
-                            <input type="email" id="email" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 transition duration-300">
-                        </div>
-                        <div>
-                            <label for="message" class="block mb-2 font-medium">Message</label>
-                            <textarea id="message" rows="4" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 transition duration-300"></textarea>
-                        </div>
-                        <button type="submit" class="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg transition duration-300 w-full">
-                            
-                        </button>
                     </form>
                 </div>
             </div>
