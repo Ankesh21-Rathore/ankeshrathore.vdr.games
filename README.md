@@ -312,13 +312,13 @@
                     <a href="#" class="text-gray-400 hover:text-purple-400 transition duration-300">
                         <i class="fab fa-github text-2xl social-icon"></i>
                     </a>
-                    <a href="#" class="text-gray-400 hover:text-purple-400 transition duration-300">
+                    <a href="https://www.linkedin.com/in/ankesh-rathore-75965033a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="text-gray-400 hover:text-purple-400 transition duration-300">
                         <i class="fab fa-linkedin text-2xl social-icon"></i>
                     </a>
-                    <a href="#" class="text-gray-400 hover:text-purple-400 transition duration-300">
+                    <a href="https://x.com/RathoreAnk6029?t=XsG1nb1sQnEumpWS_FRigg&s=09" class="text-gray-400 hover:text-purple-400 transition duration-300">
                         <i class="fab fa-twitter text-2xl social-icon"></i>
                     </a>
-                    <a href="#" class="text-gray-400 hover:text-purple-400 transition duration-300">
+                    <a href="https://www.instagram.com/its.rathore.saab?igsh=d2NyYzRnbDMxeHF0" class="text-gray-400 hover:text-purple-400 transition duration-300">
                         <i class="fab fa-instagram text-2xl social-icon"></i>
                     </a
                 </div>
