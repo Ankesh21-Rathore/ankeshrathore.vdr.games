@@ -70,7 +70,7 @@
                     <a href="#home" class="hover:text-purple-400 transition duration-300">Home</a>
                     <a href="#about" class="hover:text-purple-400 transition duration-300">About</a>
                     <a href="#skills" class="hover:text-purple-400 transition duration-300">Skills</a>
-                    <a href="Profilee.html" class="hover:text-purple-400 transition duration-300">Contact</a>
+                    <a href="contact.html" class="hover:text-purple-400 transition duration-300">Contact</a>
                 </div>
                 <div class="md:hidden">
                     <button id="menu-toggle" class="text-white focus:outline-none">
@@ -85,7 +85,7 @@
             <a href="#about" class="block py-2 hover:text-purple-400 transition duration-300">About</a>
             <a href="#skills" class="block py-2 hover:text-purple-400 transition duration-300">Skills</a>
             <title>"E:\My_code\C++\Profilee.html"</title>
-            <a href="Profilee.html" class="block py-2 hover:text-purple-400 transition duration-300">Contact</a>
+            <a href="contact.html" class="block py-2 hover:text-purple-400 transition duration-300">Contact</a>
         </div>
     </nav>
 
@@ -102,7 +102,7 @@
                     Currently pursuing my degree while building innovative digital experiences.
                 </p>
                 <div class="flex space-x-4">
-                    <a href="#contact" class="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg transition duration-300 animate-pulse-hover">
+                    <a href="#contact.html" class="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg transition duration-300 animate-pulse-hover">
                         Contact Me
                     </a>
                     <a href="#skills" class="border border-purple-400 text-purple-400 hover:bg-purple-400/10 px-6 py-3 rounded-lg transition duration-300 animate-pulse-hover">
