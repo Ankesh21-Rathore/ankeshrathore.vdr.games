@@ -103,9 +103,9 @@
                 </p>
                 <div class="flex space-x-4">
                 <title>""E:\My_page\contact.html""</title>
-                    <a href="contact.html" class="border border-purple-400 text-purple-400 block py-2 hover:bg-purple-400/10 rounded-lg transition duration-300">Contact Me</a>
+                    <a href="contact.html" class="border bg-purple-400 text-white-400 block py-2 hover:bg-purple-400/10 rounded-lg transition duration-300">Contact Me</a>
        
-                    <a href="#skills" class="border border-purple-400 text-purple-400 hover:bg-purple-400/10 px-6 py-3 rounded-lg transition duration-300 animate-pulse-hover">
+                    <a href="#skills" class="border bg-purple-400 text-white-400 hover:bg-purple-400/10 px-6 py-3 rounded-lg transition duration-300 animate-pulse-hover">
                         View Skills
                     </a>
                 </div>
