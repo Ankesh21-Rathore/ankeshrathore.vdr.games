@@ -8,7 +8,7 @@
     <script src="https://cdn.emailjs.com/sdk/3.2.0/email.min.js"></script>
     <script>
         (function(){
-            emailjs.init("as9921645@gmail.com"); // Replace with your EmailJS user ID after signing up
+            emailjs.init("as9921645@gmail.com"); 
         })();
     </script>
     <script type="text/javascript"
@@ -115,7 +115,7 @@
                 <textarea id="message" name="message" required placeholder="Your message"></textarea>
                 <p class="error" id="messageError" style="display: none;">Please enter a message.</p>
             </div>
-            <button type="submit">Send Message</button>
+            <button type="submit" class="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg transition duration-300 animate-pulse-hover">Send Message 📩</button>
         </form>
         <p id="formMessage" class="message"></p>
     </div>
@@ -162,7 +162,6 @@
             formMessage.textContent = 'Sending message...';
             formMessage.className = 'message';
 
-            // Replace with your EmailJS service and template IDs
             emailjs.send("service_p01px5m", "template_lakns5d", {
                 from_name: nameInput.value,
                 from_email: emailInput.value,
