@@ -65,7 +65,7 @@
     <nav class="bg-gray-800/80 backdrop-blur-md fixed w-full z-50 shadow-xl">
         <div class="max-w-6xl mx-auto px-4">
             <div class="flex justify-between items-center py-4">
-                <div class="text-2xl font-bold text-purple-400">Ankesh<span class="text-white">Rathore</span></div>
+                <div class="text-2xl font-bold text-purple-400">Ankesh<span class="text-white"> Rathore</span></div>
                 <div class="hidden md:flex space-x-8">
                     <a href="#home" class="hover:text-purple-400 transition duration-300">Home</a>
                     <a href="#about" class="hover:text-purple-400 transition duration-300">About</a>
@@ -94,16 +94,16 @@
         <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
             <div class="animate-entry" style="animation-delay: 0.2s;">
                 <h1 class="text-4xl md:text-6xl font-bold mb-6">
-                    Hi, I'm <span class="text-purple-400">Ankesh</span>
+                    Hi, I'm <span class="text-purple-400">Ankesh<span class="text-white"> Rathore</span>
                 </h1>
-                <h2 class="text-2xl md:text-3xl mb-6 text-purple-200">Computer Science Student & Game Developer</h2>
+                <h2 class="text-2xl md:text-3xl mb-6 text-purple-200">Computer Science Student & App developer</h2>
                 <p class="text-lg mb-8 text-gray-300">
-                    Passionate about programming, game development, and artificial intelligence. 
+                    Passionate about programming, app development, and artificial intelligence. 
                     Currently pursuing my degree while building innovative digital experiences.
                 </p>
                 <div class="flex space-x-4">
                 <title>""E:\My_page\contact.html""</title>
-                    <a href="contact.html" class="border bg-purple-700 text-white-400 block py-2 hover:bg-purple-400/10 rounded-lg transition duration-300 animate-pulse-hover">Contact Me</a>
+                    <a href="contact.html" class="border bg-purple-700 text-white-400 block py-2 hover:bg-purple-400/10 rounded-lg transition duration-300">Contact Me</a>
        
                     <a href="#skills" class="border bg-purple-700 text-white-400 hover:bg-purple-400/10 px-6 py-3 rounded-lg transition duration-300 animate-pulse-hover">
                         View Skills
@@ -118,7 +118,7 @@
                              class="w-full h-full object-cover">
                     </div>
                     <div class="absolute -bottom-4 left-1/2 transform -translate-x-1/2 bg-purple-600 px-4 py-2 rounded-full text-sm font-semibold whitespace-nowrap">
-                        AI & Game Dev Expert
+                        AI & App dev Expert
                     </div>
                 </div>
             </div>
@@ -134,12 +134,12 @@
             <div class="grid md:grid-cols-3 gap-8">
                 <div class="md:col-span-2">
                     <p class="text-lg mb-6 text-gray-300">
-                        I'm Ankesh Rathore, a passionate computer science student specializing in game development and artificial intelligence. 
+                        I'm Ankesh Rathore, a passionate computer science student specializing in app development and artificial intelligence. 
                         Currently pursuing my degree, I'm deeply fascinated by the intersection of programming and creative technologies.
                     </p>
                     <p class="text-lg mb-6 text-gray-300">
-                        My technical journey began with learning C and C++, which developed into a love for game engines like Unity and Unreal. 
-                        I enjoy creating immersive digital experiences that combine technical precision with creative vision.
+                        My technical journey began with learning C++, Java, and now I'm works on most important skill DSA(Data Structure and Algorithm).Then start the app development by help of Android Studio. 
+                        I'm now enjoying creating immersive digital experiences that combine technical precision with creative vision.
                     </p>
                     <p class="text-lg text-gray-300">
                         Outside of coding, I'm an avid learner who enjoys staying updated with the latest in technology, 
@@ -164,7 +164,7 @@
                             </div>
                             <div>
                                 <h3 class="font-semibold">Specialization</h3>
-                                <p class="text-sm text-gray-400">Game Development & AI</p>
+                                <p class="text-sm text-gray-400">App Development & AI</p>
                             </div>
                         </div>
                         <div class="flex items-center">
@@ -205,11 +205,11 @@
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>Java (Advanced)</span>
+                            <span>Java (Moderate)</span>
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>C# (Proficient)</span>
+                            <span>Kotlin (will begin)</span>
                         </li>
                     </ul>
                 </div>
@@ -220,20 +220,20 @@
                         <div class="bg-purple-600/20 p-3 rounded-lg mr-4">
                             <i class="fas fa-gamepad text-purple-400 text-2xl"></i>
                         </div>
-                        <h3 class="text-xl font-semibold">Game Development</h3>
+                        <h3 class="text-xl font-semibold"> Development</h3>
                     </div>
                     <ul class="space-y-3">
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>Unity Engine</span>
+                            <span>Android Studio</span>
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>Unreal Engine</span>
+                            <span>Firebase</span>
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>3D Modeling Basics</span>
+                            <span>NDK(C/C++)</span>
                         </li>
                     </ul>
                 </div>
@@ -249,15 +249,15 @@
                     <ul class="space-y-3">
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>Machine Learning</span>
+                            <span>UI designing</span>
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>AI in 3D Modeling</span>
+                            <span>AI in 3D/2D Modeling</span>
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>AI in Game Dev</span>
+                            <span>AI in App Dev</span>
                         </li>
                     </ul>
                 </div>
