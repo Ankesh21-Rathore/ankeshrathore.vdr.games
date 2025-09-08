@@ -65,7 +65,7 @@
     <nav class="bg-gray-800/80 backdrop-blur-md fixed w-full z-50 shadow-xl">
         <div class="max-w-6xl mx-auto px-4">
             <div class="flex justify-between items-center py-4">
-                <div class="text-2xl font-bold text-purple-400">Ankesh<span class="text-white"> Rathore</span></div>
+                <div class="text-2xl font-bold text-purple-400">Ankesh<span class="text-white">Rathore</span></div>
                 <div class="hidden md:flex space-x-8">
                     <a href="#home" class="hover:text-purple-400 transition duration-300">Home</a>
                     <a href="#about" class="hover:text-purple-400 transition duration-300">About</a>
@@ -94,11 +94,11 @@
         <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
             <div class="animate-entry" style="animation-delay: 0.2s;">
                 <h1 class="text-4xl md:text-6xl font-bold mb-6">
-                    Hi, I'm <span class="text-purple-400">Ankesh<span class="text-white"> Rathore</span>
+                    Hi, I'm <span class="text-purple-400">Ankesh Rathore</span>
                 </h1>
-                <h2 class="text-2xl md:text-3xl mb-6 text-purple-200">Computer Science Student & App developer</h2>
+                <h2 class="text-2xl md:text-3xl mb-6 text-purple-200">Computer Science Student & Game Developer</h2>
                 <p class="text-lg mb-8 text-gray-300">
-                    Passionate about programming, app development, and artificial intelligence. 
+                    Passionate about programming, game development, and artificial intelligence. 
                     Currently pursuing my degree while building innovative digital experiences.
                 </p>
                 <div class="flex space-x-4">
@@ -118,7 +118,7 @@
                              class="w-full h-full object-cover">
                     </div>
                     <div class="absolute -bottom-4 left-1/2 transform -translate-x-1/2 bg-purple-600 px-4 py-2 rounded-full text-sm font-semibold whitespace-nowrap">
-                        AI & App dev Expert
+                        AI & Game Dev Expert
                     </div>
                 </div>
             </div>
@@ -205,27 +205,27 @@
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>Java (Moderate)</span>
+                            <span>Java (Advanced)</span>
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>Kotlin (will begin)</span>
+                            <span>Kotlin (will Begin)</span>
                         </li>
                     </ul>
                 </div>
                 
-                <!-- Game Development -->
+                <!-- App Development -->
                 <div class="bg-gray-800/50 rounded-xl p-6 border border-gray-700 hover:border-purple-500 transition duration-300 skill-card animate-entry" style="animation-delay: 0.4s;">
                     <div class="flex items-center mb-4">
                         <div class="bg-purple-600/20 p-3 rounded-lg mr-4">
                             <i class="fas fa-gamepad text-purple-400 text-2xl"></i>
                         </div>
-                        <h3 class="text-xl font-semibold"> Development</h3>
+                        <h3 class="text-xl font-semibold">App Development</h3>
                     </div>
                     <ul class="space-y-3">
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>Android Studio</span>
+                            <span>Android STD</span>
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
@@ -233,7 +233,7 @@
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>NDK(C/C++)</span>
+                            <span>NDK(C++) Basics</span>
                         </li>
                     </ul>
                 </div>
@@ -253,7 +253,7 @@
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>AI in 3D/2D Modeling</span>
+                            <span>AI in 3D Modeling</span>
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
