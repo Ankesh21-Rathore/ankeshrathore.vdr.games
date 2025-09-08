@@ -96,7 +96,7 @@
                 <h1 class="text-4xl md:text-6xl font-bold mb-6">
                     Hi, I'm <span class="text-purple-400">Ankesh Rathore</span>
                 </h1>
-                <h2 class="text-2xl md:text-3xl mb-6 text-purple-200">Computer Science Student & Game Developer</h2>
+                <h2 class="text-2xl md:text-3xl mb-6 text-purple-200">Computer Science Student & App Developer</h2>
                 <p class="text-lg mb-8 text-gray-300">
                     Passionate about programming, game development, and artificial intelligence. 
                     Currently pursuing my degree while building innovative digital experiences.
