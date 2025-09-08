@@ -98,7 +98,7 @@
                 </h1>
                 <h2 class="text-2xl md:text-3xl mb-6 text-purple-200">Computer Science Student & App Developer</h2>
                 <p class="text-lg mb-8 text-gray-300">
-                    Passionate about programming, game development, and artificial intelligence. 
+                    Passionate about programming, app development, and artificial intelligence. 
                     Currently pursuing my degree while building innovative digital experiences.
                 </p>
                 <div class="flex space-x-4">
@@ -118,7 +118,7 @@
                              class="w-full h-full object-cover">
                     </div>
                     <div class="absolute -bottom-4 left-1/2 transform -translate-x-1/2 bg-purple-600 px-4 py-2 rounded-full text-sm font-semibold whitespace-nowrap">
-                        AI & Game Dev Expert
+                        AI & App Dev Expert
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@
                         </li>
                         <li class="flex items-center">
                             <span class="bg-gray-700 rounded-full w-2 h-2 mr-2"></span>
-                            <span>Kotlin (will Begin)</span>
+                            <span>Kotlin (Will Begin)</span>
                         </li>
                     </ul>
                 </div>
